@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello World! :)
 
+My name is Anastasia Mousa and I am an undergraduate student at the Information & Electronic Engineering department in International Hellenic University in Thessaloniki, Greece.
 <!--
 **anastasiamousa/anastasiamousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
