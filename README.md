@@ -1,9 +1,9 @@
 ## Hello World! :)
 
-My name is 👩‍💻 Anastasia Mousa and I am an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) in [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
+My name is 👩‍💻 Anastasia Mousa and I am an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
 
 - 🌱 I’m currently learning Python & R for Data Science and Machine Learning and I'm practising on Java for Android applications development.
-
+- 📫 How to reach me: mousa@ieee.org
 <!--
 **anastasiamousa/anastasiamousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
