@@ -4,8 +4,12 @@ My name is 👩‍💻 Anastasia Mousa and I am an undergraduate student at the 
 
 - 🌱 I’m currently learning Python & R for Data Science and Machine Learning and I'm practising on Java, SQL and Firestore for Android applications development.
 - 📫 How to reach me: mousa@ieee.org
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiamousa&layout=compact)](https://github.com/anastasiamousa/github-readme-stats)
+
 <!--
 **anastasiamousa/anastasiamousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasiamousa&show_icons=true&theme=tokyonight)
 
 Here are some ideas to get you started:
 
