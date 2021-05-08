@@ -2,7 +2,7 @@
 
 My name is 👩‍💻 Anastasia Mousa and I am an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
 
-- 🌱 I’m currently learning Python & R for Data Science and I'm practising on Java, SQL and Firestore for Android applications development.
+- 🌱 I’m currently learning Python & R for Data Science and I'm practising on Java & Firestore for Android applications development.
 - 📫 How to reach me: mousa@ieee.org
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiamousa&layout=compact)](https://github.com/anastasiamousa/github-readme-stats)
