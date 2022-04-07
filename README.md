@@ -2,6 +2,8 @@
 
 My name is 👩‍💻 Anastasia Mousa and I am an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
 
+- I'm currently learning & doing my internship on iOS Applications Development using Swift.
+
 - 📫 How to reach me: anastasiamousa34@gmail.com || mousa@ieee.org
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiamousa&layout=compact)](https://github.com/anastasiamousa/github-readme-stats)
