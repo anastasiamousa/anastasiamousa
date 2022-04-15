@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-My name is 👩‍💻 Anastasia Mousa and I am an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
+I'm 👩‍💻 Anastasia Mousa, an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
 
 - I'm currently learning & doing my internship on iOS Applications Development.
 
