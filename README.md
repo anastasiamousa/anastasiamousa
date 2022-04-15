@@ -9,7 +9,7 @@ My name is 👩‍💻 Anastasia Mousa and I am an undergraduate student at the 
 
 - 📫 How to reach me: anastasiamousa34@gmail.com || mousa@ieee.org
 - <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/anastasia-mousa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
