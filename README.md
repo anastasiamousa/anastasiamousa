@@ -14,7 +14,8 @@ My name is 👩‍💻 Anastasia Mousa and I am an undergraduate student at the 
   </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiamousa&layout=compact)](https://github.com/anastasiamousa/github-readme-stats)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastasiamousa&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastasiamousa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <!--
