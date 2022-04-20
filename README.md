@@ -7,7 +7,7 @@ I'm 👩‍💻 Anastasia Mousa, an undergraduate student at the [Information & 
 
 - I'm currently learning & doing my internship on iOS Applications Development.
 
-- 📫 How to reach me: anastasiamousa34@gmail.com || mousa@ieee.org
+- 📫 How to reach me: anastasiamousa@protonmail.com || mousa@ieee.org
 - <div id="badges">
   <a href="https://www.linkedin.com/in/anastasia-mousa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
