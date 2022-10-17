@@ -1,6 +1,5 @@
 <h1>
-  hey there
-  <img src="https://dribbble.com/shots/1974070-Macintosh-Hello-Animation/attachments/9070947?mode=media" width="30px"/>
+
 </h1>
 
 I'm 👩‍💻 Anastasia Mousa, an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
