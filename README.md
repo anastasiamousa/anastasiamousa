@@ -4,7 +4,7 @@
 
 I'm 👩‍💻 Anastasia Mousa, an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
 
-- I'm currently learning & doing my internship on iOS Applications Development.
+- I've just finished my internship & started working on iOS Applications Development.
 
 - 📫 How to reach me: anastasiamousa@protonmail.com || mousa@ieee.org
 - <div id="badges">
