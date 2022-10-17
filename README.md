@@ -1,5 +1,5 @@
 <h1>
-<iframe src="https://giphy.com/embed/OBnIvqqpKFbZam9Wmj" width="480" height="182" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MiniMaison-new-baby-newbaby-birthannoucement-OBnIvqqpKFbZam9Wmj">via GIPHY</a></p>
+<img src="https://giphy.com/embed/OBnIvqqpKFbZam9Wmj" width="480" height="182">
 </h1>
 
 I'm 👩‍💻 Anastasia Mousa, an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
