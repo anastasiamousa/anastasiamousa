@@ -1,5 +1,5 @@
 <h1>
-  hello :)
+  hello world :)
 </h1>
 
 I'm 👩‍💻 Anastasia Mousa, an undergraduate student at the [Information & Electronic Engineering department](https://www.iee.ihu.gr/en/) at [International Hellenic University](https://www.ihu.gr/) in Thessaloniki, Greece.
