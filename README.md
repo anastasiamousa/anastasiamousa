@@ -7,7 +7,7 @@ I'm 👩‍💻 Anastasia Mousa, an undergraduate student at the [Information & 
 - I finished my internship on September 2022 & started working on iOS Applications Development.
 
 - 📫 How to reach me: anastasiamousa@protonmail.com
-- <div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/anastasia-mousa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
