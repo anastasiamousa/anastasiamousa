@@ -12,7 +12,7 @@ I'm 👩‍💻 Anastasia Mousa, an undergraduate student in the [IEE department
   </a>
  <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiamousa&layout=compact)](https://github.com/anastasiamousa/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiamousa&layout=compact)](https://github.com/anastasiamousa/github-readme-stats) &nbsp; &nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastasiamousa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
