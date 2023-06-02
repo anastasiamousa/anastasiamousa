@@ -5,8 +5,7 @@
 I'm 👩‍💻 Anastasia Mousa, an undergraduate student in the [IEE department](https://www.iee.ihu.gr/en/) at [IHU](https://www.ihu.gr/) in Thessaloniki, Greece.
 
 - I finished a 6-month internship on September 2022 & started working on iOS Applications Development.
-
-- 📫 How to reach me: anastasiamousa@protonmail.com
+- 📫 reach me at: anastasiamousa@protonmail.com
 <div id="badges">
   <a href="https://www.linkedin.com/in/anastasia-mousa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,7 +13,6 @@ I'm 👩‍💻 Anastasia Mousa, an undergraduate student in the [IEE department
  <br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiamousa&layout=compact)](https://github.com/anastasiamousa/github-readme-stats)
-  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anastasiamousa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
