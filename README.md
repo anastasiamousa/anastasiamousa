@@ -1,7 +1,7 @@
 # 💫 About Me:
 👩‍💻 currently working as an iOS developer<br> 📚 an undergraduate student in the [IEE department](https://www.iee.ihu.gr/en/) at [IHU](https://www.ihu.gr/) in Thessaloniki, Greece
 
-## 🌐 Socials:
+## 🌐 Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anastasia-Mousa) 
 
 # 💻 Tech Stack:
@@ -9,7 +9,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anastasiamousa&theme=solarized-light&hide_border=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiamousa&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
