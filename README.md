@@ -2,7 +2,7 @@
 👩‍💻 currently working as an iOS developer<br> 📚 an undergraduate student in the [IEE department](https://www.iee.ihu.gr/en/) at [IHU](https://www.ihu.gr/) in Thessaloniki, Greece
 
 ## 🌐 Reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Anastasia-Mousa)   [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](anastasiamousa@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Anastasia-Mousa)   [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](<anastasiamousa@protonmail.com>)
 
 
 # 💻 Tech Stack:
