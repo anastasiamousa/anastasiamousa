@@ -1,4 +1,3 @@
-# 💫 About me:
 👩‍💻 currently working as an iOS developer<br> 📚 an undergraduate student in the [IEE department](https://www.iee.ihu.gr/en/) at [IHU](https://www.ihu.gr/) in Thessaloniki, Greece
 
 ## 🌐 Reach me:
