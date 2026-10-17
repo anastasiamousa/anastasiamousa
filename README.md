@@ -9,8 +9,5 @@
 # 💻 Writing @:
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://anastasiamousa.medium.com/)
 
-## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
----
 [![](https://visitcount.itsvg.in/api?id=anastasiamousa&icon=7&color=12)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
